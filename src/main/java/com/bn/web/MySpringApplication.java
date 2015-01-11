@@ -12,6 +12,7 @@ import org.springframework.context.annotation.Configuration;
 
 /* Try pushing..
  * This class initiates Spring Boot Framework..
+ * Test1
  */
 @Configuration
 @ComponentScan
