@@ -10,7 +10,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-/*
+/* Try pushing..
  * This class initiates Spring Boot Framework..
  */
 @Configuration
