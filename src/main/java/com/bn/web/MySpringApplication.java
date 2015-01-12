@@ -30,6 +30,6 @@ public class MySpringApplication {
         for (String beanName: beanNames)
         	logger.info(beanName);
     }
-}
+} //Bug fix on master..
 
 //This is first commit to 1.0..
