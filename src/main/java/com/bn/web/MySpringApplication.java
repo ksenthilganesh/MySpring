@@ -30,4 +30,4 @@ public class MySpringApplication {
         for (String beanName: beanNames)
         	logger.info(beanName);
     }
-}
+} //Bug fix on master..
